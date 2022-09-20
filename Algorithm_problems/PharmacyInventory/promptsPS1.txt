@@ -1,0 +1,6 @@
+printStockOut
+updateDrugList: 112, 8
+checkDrugStatus: 112
+freqDemand: sell, 2
+supplyShortage: 10
+printDrugInventory
