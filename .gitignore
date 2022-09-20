@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-
+classification/**
 # Object files
 *.o
 *.ko
