@@ -1,3 +1,9 @@
+'''
+Author :Akuthota shiva kumar
+email:atpshivakumar@gmail.com
+'''
+
+
 import os
 class DrugNode:
     '''
